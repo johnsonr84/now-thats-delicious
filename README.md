@@ -1,6 +1,6 @@
 # now-thats-delicious
 
-[![github-follow](https://img.shields.io/github/followers/{johnsonr84}.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/johnsonr84)
+[![github-follow](https://img.shields.io/github/followers/johnsonr84.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/johnsonr84)
 [![project-languages-used](https://img.shields.io/github/languages/count/johnsonr84/readme-generator?color=orange)](https://github.com/johnsonr84/now-thats-delicious)
 [![project-top-language](https://img.shields.io/github/languages/top/johnsonr84/readme-generator?color=yellow)](https://github.com/johnsonr84/now-thats-delicious)
 [![license](https://img.shields.io/badge/license-mit-brightgreen.svg)](https://choosealicense.com/licenses/mit/)
