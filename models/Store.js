@@ -44,11 +44,19 @@ storeSchema.pre('save', async function(next) {
   // find other stores that have a slug of wes, wes-1, wes-2
   const slugRegEx = new RegExp(`^(${this.slug})((-[0-9]*$)?)$`, 'i');
   const storesWithSlug = await this.constructor.find({ slug: slugRegEx });
-  if(storesWithSlug.length) {
+  if (storesWithSlug.length) {
     this.slug = `${this.slug}-${storesWithSlug.length + 1}`;
   }
   next();
   // TODO make more resiliant so slugs are unique
 });
+
+storeSchema.statics.getTagsList = function() {
+  return this.aggregate([
+    { $unwind: '$tags' },
+    { $group: { _id: '$tags', count: { $sum: 1 } } },
+    { $sort: { count: -1 } }
+  ]);
+}
 
 module.exports = mongoose.model('Store', storeSchema);
