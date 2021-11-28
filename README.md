@@ -26,7 +26,7 @@
 - [License](#License)
 - [Resources](#Resources)
 - [Contact](#Contact)
-- [Designed and built by](#Designed-and-built-by)
+- [Designed and Built By](#Designed-and-Built-By)
 
 ## Description
 
@@ -92,7 +92,7 @@ This project is [mit](https://choosealicense.com/licenses/mit/) licensed.
 
 Email: robertcjohnson1984@gmail.com
 
-## Designed and built by
+## Designed and Built By
 
 Author(s): Rob Johnson  
  GitHub: https://github.com/johnsonr84/
