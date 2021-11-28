@@ -1,8 +1,8 @@
 # now-thats-delicious
 
 [![github-follow](https://img.shields.io/github/followers/johnsonr84.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/johnsonr84)
-[![project-languages-used](https://img.shields.io/github/languages/count/johnsonr84/readme-generator?color=orange)](https://github.com/johnsonr84/now-thats-delicious)
-[![project-top-language](https://img.shields.io/github/languages/top/johnsonr84/readme-generator?color=yellow)](https://github.com/johnsonr84/now-thats-delicious)
+[![project-languages-used](https://img.shields.io/github/languages/count/johnsonr84/now-thats-delicious?color=orange)](https://github.com/johnsonr84/now-thats-delicious)
+[![project-top-language](https://img.shields.io/github/languages/top/johnsonr84/now-thats-delicious?color=yellow)](https://github.com/johnsonr84/now-thats-delicious)
 [![license](https://img.shields.io/badge/license-mit-brightgreen.svg)](https://choosealicense.com/licenses/mit/)
 
 ## Built With
@@ -18,7 +18,7 @@
 - [Description](#Description)
 - [Outcome](#Outcome)
 - [Project URL](#Project-URL)
-- [Website Link](#WebsiteLink)
+- [Deployment](#Deployment)
 - [Demo/Screenshots](#Demo/Screenshots)
 - [Technologies](#Technologies)
 - [Installation](#Installation)
@@ -40,17 +40,17 @@ Now That's Delicious - Nifty Real World Restaurant App (Search, Geolocate, Revie
 
 https://github.com/johnsonr84/now-thats-delicious
 
-## Website Link
+## Deployment
 
 Coming soon!
 
-<!-- - [https://johnsonr84.github.io/react-portfolio/](https://johnsonr84.github.io/react-portfolio/) -->
+<!-- - [https://johnsonr84.github.io/now-thats-delicious/](https://johnsonr84.github.io/now-thats-delicious/) -->
 
 ## Demo/Screenshots
 
   <table>
     <tr>
-      <td>react-portfolio example</td>
+      <td>Now That's Delicious Example</td>
     </tr>
     <tr>
     <td><video playsinline="" src="https://player.vimeo.com/external/214724905.hd.mp4?s=5cd8253c819177881cc44457e4e6784c626a2599&amp;profile_id=174" muted="" autoplay="" loop="" height=400></video></td>
