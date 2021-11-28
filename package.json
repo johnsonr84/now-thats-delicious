@@ -7,7 +7,7 @@
   },
   "now": {
     "dotenv": "variables.env.now"
-  }
+  },
   "scripts": {
     "start": "node ./start.js",
     "watch": "nodemon ./start.js --ignore public/",
