@@ -8,7 +8,6 @@
   "now": {
     "dotenv": "variables.env.now"
   },
-
   "scripts": {
     "start": "node ./start.js",
     "build": "webpack",
