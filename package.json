@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "engines": {
-    "node": ">= 7.6.0"
+    "node": "16.x"
   },
   "now": {
     "dotenv": "variables.env.now"
