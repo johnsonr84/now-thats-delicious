@@ -52,7 +52,7 @@ exports.createStore = async (req, res) => {
 
 exports.getStores = async (req, res) => {
   const page = req.params.page || 1;
-  const limit = 4;
+  const limit = 10;
   const skip = (page * limit) - limit;
 
   // 1. Query the database for a list of all stores
