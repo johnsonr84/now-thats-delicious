@@ -12,6 +12,7 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)](https://expressjs.com/)
 [![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
+[![Heroko](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com/)
 
 ## Table of Contents
 
@@ -42,9 +43,7 @@ https://github.com/johnsonr84/now-thats-delicious
 
 ## Deployment
 
-Coming soon!
-
-<!-- - [https://johnsonr84.github.io/now-thats-delicious/](https://johnsonr84.github.io/now-thats-delicious/) -->
+https://now-thats-delicious-app.herokuapp.com/
 
 ## Demo/Screenshots
 
