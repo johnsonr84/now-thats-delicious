@@ -52,7 +52,7 @@ https://now-thats-delicious-app.herokuapp.com/
       <td>Now That's Delicious Stores Page</td>
     </tr>
     <tr>
-      <td><img src="public/images/photos/store.png" width=400 alt="screenshot of stores page"></td>
+      <td><img src="public/images/photos/stores.png" width=400 alt="screenshot of stores page"></td>
     </tr>
      <tr>
       <td>Now That's Delicious Tags Page</td>
@@ -65,6 +65,12 @@ https://now-thats-delicious-app.herokuapp.com/
     </tr>
     <tr>
       <td><img src="public/images/photos/add.png" width=400  alt="screenshot of add stores page"></td>
+    </tr>
+    <tr>
+      <td>Now That's Delicious Store Review Example</td>
+    </tr>
+    <tr>
+      <td><img src="public/images/photos/reviews.png" width=400  alt="screenshot of store review example"></td>
     </tr>
      <tr>
       <td>Now That's Delicious Map Page</td>
