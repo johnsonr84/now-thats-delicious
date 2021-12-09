@@ -1,4 +1,4 @@
-<h1 align="center" style="color:purple"><a href="https://now-thats-delicious-app.herokuapp.com/">Now That's Delicious! 😋 </a></h1>
+<h1 align="center", style="color:purple"><a href="https://now-thats-delicious-app.herokuapp.com/">Now That's Delicious! 😋 </a></h1>
 
 ## Description
 
