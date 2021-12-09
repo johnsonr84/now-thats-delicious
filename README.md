@@ -49,11 +49,28 @@ https://now-thats-delicious-app.herokuapp.com/
 
   <table>
     <tr>
-      <td>Now That's Delicious Example</td>
+      <td>Now That's Delicious Stores Page</td>
     </tr>
     <tr>
-    <td><video playsinline="" src="https://player.vimeo.com/external/214724905.hd.mp4?s=5cd8253c819177881cc44457e4e6784c626a2599&amp;profile_id=174" muted="" autoplay="" loop="" height=400></video></td>
-      <!-- <td><img src="" height=600 alt="screenshot of now-thats-delicious"></td> -->
+      <td><img src="public/images/photos/store.png" width=400 alt="screenshot of stores page"></td>
+    </tr>
+     <tr>
+      <td>Now That's Delicious Tags Page</td>
+    </tr>
+    <tr>
+      <td><img src="gatsby/src/assets/images/pizza-menu.png" width=400  alt="screenshot of tags page"></td>
+    </tr>
+     <tr>
+      <td>Now That's Delicious Add Stores Page</td>
+    </tr>
+    <tr>
+      <td><img src="public/images/photos/add.png" width=400  alt="screenshot of add stores page"></td>
+    </tr>
+     <tr>
+      <td>Now That's Delicious Map Page</td>
+    </tr>
+    <tr>
+      <td><img src="public/images/photos/map.png" width=400  alt="screenshot of map page"></td>
     </tr>
   </table>
 
