@@ -1,4 +1,8 @@
-# now-thats-delicious
+<h1 align="center" color="purple"><a href="https://now-thats-delicious-app.herokuapp.com/">Now That's Delicious! 😋 </a></h1>
+
+## Description
+
+Now That's Delicious - Nifty Real World Restaurant App (Search, Geolocate, Review and Curate) features a JavaScript (ES6) frontend with Express.js, Node.js and a MongoDB backend. The app utilizes Passport Auth, Geolocation, Image uploading and resizing. Deployed to Vercel
 
 [![github-follow](https://img.shields.io/github/followers/johnsonr84.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/johnsonr84)
 [![project-languages-used](https://img.shields.io/github/languages/count/johnsonr84/now-thats-delicious?color=orange)](https://github.com/johnsonr84/now-thats-delicious)
@@ -27,11 +31,7 @@
 - [License](#License)
 - [Resources](#Resources)
 - [Contact](#Contact)
-- [Designed and Built By](#Designed-and-Built-By)
-
-## Description
-
-Now That's Delicious - Nifty Real World Restaurant App (Search, Geolocate, Review and Curate) features a JavaScript (ES6) frontend with Express.js, Node.js and a MongoDB backend. The app utilizes Passport Auth, Geolocation, Image uploading and resizing. Deployed to Vercel
+- [Author](#Author)
 
 ## Outcome
 
@@ -58,7 +58,7 @@ https://now-thats-delicious-app.herokuapp.com/
       <td>Now That's Delicious Tags Page</td>
     </tr>
     <tr>
-      <td><img src="gatsby/src/assets/images/pizza-menu.png" width=400  alt="screenshot of tags page"></td>
+      <td><img src="public/images/photos/tags.png" width=400  alt="screenshot of tags page"></td>
     </tr>
      <tr>
       <td>Now That's Delicious Add Stores Page</td>
@@ -97,7 +97,7 @@ Node.js, JavaScript, Express.js, MongoDB, Auth, Passport, Geolocation, Image Upl
 
 ## Credits
 
-I would like to credit Wes Bos's Learn Node.js Course for teaching me the skills necessary to complete this wonderful project and to improve my understanding of Node withing a fullstack project.
+I would like to credit Wes Bos's Learn Node.js Course for teaching me the skills necessary to complete this wonderful project and to improve my understanding of Node within a fullstack project.
 
 ## License
 
@@ -114,7 +114,7 @@ This project is [mit](https://choosealicense.com/licenses/mit/) licensed.
 
 Email: robertcjohnson1984@gmail.com
 
-## Designed and Built By
+## Author
 
 Author(s): Rob Johnson  
  GitHub: https://github.com/johnsonr84/
