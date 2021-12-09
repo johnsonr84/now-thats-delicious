@@ -2,7 +2,7 @@
 
 ## Description
 
-Now That's Delicious - Nifty Real World Restaurant App (Search, Geolocate, Review and Curate) features a JavaScript (ES6) frontend with Express.js, Node.js and a MongoDB backend. The app utilizes Passport Auth, Geolocation, Image uploading and resizing. Deployed to Vercel
+Now That's Delicious - Nifty Real World Restaurant App (Search, Geolocate, Review and Curate) that features a collective of my favorite restaurants in Salt Lake City, UT. It has a JavaScript (ES6) frontend with Express.js, Node.js and a MongoDB backend. The app utilizes Passport Auth, Geolocation, Image uploading and resizing. Deployed to Heroku!
 
 [![github-follow](https://img.shields.io/github/followers/johnsonr84.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/johnsonr84)
 [![project-languages-used](https://img.shields.io/github/languages/count/johnsonr84/now-thats-delicious?color=orange)](https://github.com/johnsonr84/now-thats-delicious)
