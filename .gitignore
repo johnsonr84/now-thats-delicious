@@ -6,3 +6,4 @@ dist/
 haters/
 variables.env
 variables.env.now
+.vercel
